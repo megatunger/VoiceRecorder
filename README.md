@@ -1,0 +1,1 @@
+python3 recorder.py -p prompts/gia_usd_bat_tang.txt
