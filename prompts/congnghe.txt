@@ -1,0 +1,16 @@
+Netflix giảm lưu lượng tại Việt Nam
+Netflix giảm lưu lượng viễn thông để tránh việc nghẽn mạng tại Việt Nam, nhưng chất lượng video sẽ được giữ nguyên.
+
+Netflix cho biết sẽ triển khai các biện pháp để giảm khoảng 25% lưu lượng viễn thông của dịch vụ trên toàn cầu và sẽ áp dụng tại Việt Nam trong 30 ngày, kể từ 31/3.
+
+Động thái của dịch vụ cung cấp video theo yêu cầu này được đưa ra trong bối cảnh mọi người mọi người được khuyến khích ở nhà để phòng tránh Covid-19. Việc giảm lưu lượng sẽ góp phần giảm áp lực lên đường truyền mạng, hạn chế việc nghẽn mạng có thể xảy ra.
+
+Theo Netflix, mặc dù giảm lưu lượng, nhưng chất lượng video sẽ được giữ nguyên. Người dùng vẫn có thể thưởng thức video tương ứng với gói thuê bao mà họ đăng ký, với chất lượng từ SD cho tới UltraHD.
+
+Giải thích cho việc này, Netflix cho biết mỗi tựa phim hoặc video trên hệ thống của hãng vốn có nhiều độ phân giải khác nhau, và mỗi độ phân giải sẽ có nhiều luồng truyền dẫn khác nhau. Khi áp dụng biện pháp giảm lưu lượng, hệ thống sẽ phát video từ các luồng có băng thông thấp nhất, loại bỏ các luồng có băng thông cao.
+
+Theo một chuyên gia trong lĩnh vực này, video truyền tới thiết bị xem của người dùng có thể ví như những chiếc xe đi trên đường cao tốc nhiều làn đường. Mỗi làn đường là một luồng truyền dẫn, và mỗi độ phân giải (SD/HD/UHD) là một đường cao tốc khác nhau. Việc Netflix áp dụng việc giảm lưu lượng cũng giống việc họ cắt bỏ một làn đường tốc độ cao nhất. Khi đó, người dùng vẫn sẽ được đi trên đúng "đường cao tốc" mà mình đã đăng ký, nhưng ở các làn đường có tốc độ thấp hơn. Đồng nghĩa với chất lượng video được giữ nguyên.
+
+Một số người dùng Netflix tại Việt Nam không nhận thấy có điều gì khác biệt khi xem video trước và sau ngày 31/3.
+
+Trước Netflix, nhiều dịch vụ video trực tuyến cũng cho biết sẽ có các biện pháp để giảm tải cho hệ thống mạng, vốn có lưu lượng tăng đột biến trong mùa dịch. YouTube, Amazon cũng đã giảm chất lượng video hoặc giảm lưu lượng đường truyền tại một số thị trường.

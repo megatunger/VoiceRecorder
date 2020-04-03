@@ -85,13 +85,7 @@ Window {
             }
         }
 
-        CheckBox {
-            Layout.fillWidth: true
-            font.pointSize: 14
-            text: 'Filter all punctuation (only speak normal words!)'
-            checked: true
-            enabled: false
-        }
+
 
         TextArea {
             Layout.fillWidth: true

@@ -51,9 +51,10 @@ class Recorder(QObject):
         data = self.read_audio(drop_last=3)
         if self.window.property('scriptFilename'):
             self.deleteFile(self.window.property('scriptFilename'))
-        filename = os.path.normpath(os.path.join(self.window.property('saveDir'), "recorder_" + datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S_%f") + ".wav"))
+        filepath = os.path.normpath(os.path.join(self.window.property('saveDir'), "recorder_" + datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S_%f") + ".wav"))
+        filename = os.path.normpath(os.path.join("recorder_" + datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S_%f") + ".wav"))
         self.window.setProperty('scriptFilename', filename)
-        self.audio.write_wav(filename, data)
+        self.audio.write_wav(filepath, data)
         scriptText = self.window.property('scriptText')
         file = open(os.path.join(self.window.property('saveDir'), "result.txt"), "a")
         file.write("\n" + filename + "\n" + self.sanitize_script(scriptText))
